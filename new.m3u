@@ -1,0 +1,468 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK| BBC 1 SD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="UK | Entertainment",UK| BBC 1 SD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103652.ts
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK| BBC 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="UK | Entertainment",UK| BBC 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/553.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK| BBC 1 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbconehd.png" group-title="UK | Entertainment",UK| BBC 1 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/437.ts
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK| BBC 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbctwo.png" group-title="UK | Entertainment",UK| BBC 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/433.ts
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK| BBC 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbctwohd.png" group-title="UK | Entertainment",UK| BBC 2 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/552.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK| ITV 1 SD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="UK | Entertainment",UK| ITV 1 SD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103653.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK| ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="UK | Entertainment",UK| ITV 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/514.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK| ITV 1 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv1hd.png" group-title="UK | Entertainment",UK| ITV 1 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/143.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK| Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="UK | Entertainment",UK| Channel 4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/390.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK| Channel 4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="UK | Entertainment",UK| Channel 4 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/389.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK| Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5.png" group-title="UK | Entertainment",UK| Channel 5 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/541.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK| Channel 5 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="UK | Entertainment",UK| Channel 5 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/394.ts
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK| BBC 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbc4.png" group-title="UK | Entertainment",UK| BBC 4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/435.ts
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK| ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="UK | Entertainment",UK| ITV 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/316.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK| ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="UK | Entertainment",UK| ITV 2 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/319.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK| ITV 3 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="UK | Entertainment",UK| ITV 3 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/512.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK| ITV 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv4hd.png" group-title="UK | Entertainment",UK| ITV 4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/320.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK| ITV Be SD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbe.png" group-title="UK | Entertainment",UK| ITV Be SD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/317.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK| ITV Be " tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbehd.png" group-title="UK | Entertainment",UK| ITV Be 
+https://hostcloud.network/live/aD8C1ETPQU28/842373/321.ts
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK| Alibi HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/alibihd.png" group-title="UK | Entertainment",UK| Alibi HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/556.ts
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK| BLAZE" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/blaze.png" group-title="UK | Entertainment",UK| BLAZE
+https://hostcloud.network/live/aD8C1ETPQU28/842373/1031.ts
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK| CBS Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsdrama.png" group-title="UK | Entertainment",UK| CBS Drama
+https://hostcloud.network/live/aD8C1ETPQU28/842373/402.ts
+#EXTINF:-1 tvg-id="CBSJustice.uk" tvg-name="UK| CBS Justice" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsjustice.png" group-title="UK | Entertainment",UK| CBS Justice
+https://hostcloud.network/live/aD8C1ETPQU28/842373/401.ts
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK| CBS Reality" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsreality.png" group-title="UK | Entertainment",UK| CBS Reality
+https://hostcloud.network/live/aD8C1ETPQU28/842373/543.ts
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK| Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="UK | Entertainment",UK| Challenge
+https://hostcloud.network/live/aD8C1ETPQU28/842373/100.ts
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK| Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="UK | Entertainment",UK| Dave HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/83661.ts
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK| Drama HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="UK | Entertainment",UK| Drama HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/367.ts
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK| Comedy Central HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="UK | Entertainment",UK| Comedy Central HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/380.ts
+#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="UK| Comedy Central Extra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycentralextra.png" group-title="UK | Entertainment",UK| Comedy Central Extra
+https://hostcloud.network/live/aD8C1ETPQU28/842373/374.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK| E4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="UK | Entertainment",UK| E4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/353.ts
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK| E! UK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="UK | Entertainment",UK| E! UK HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/360.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK| Eden HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/edenhd.png" group-title="UK | Entertainment",UK| Eden HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/337.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK| Food Network" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/foodnetworkhd.png" group-title="UK | Entertainment",UK| Food Network
+https://hostcloud.network/live/aD8C1ETPQU28/842373/523.ts
+#EXTINF:-1 tvg-id="foodxp.uk" tvg-name="UK| Foodxp" tvg-logo="https://1.bp.blogspot.com/-YTbXSLKzBds/XTDONmhCFZI/AAAAAAAAV5M/rNTTiqTp4WkXNg-YftE7LkElY3gD9cptACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_20190718-205243_Chrome.jpg" group-title="UK | Entertainment",UK| Foodxp
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103299.ts
+#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-name="UK| Forces TV" tvg-logo="http://presentationarchive.com/forcestv/ident-f.jpg" group-title="UK | Entertainment",UK| Forces TV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/522.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK| Fox HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/foxhd.png" group-title="UK | Entertainment",UK| Fox HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/10909.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK| Gold HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/goldhd.png" group-title="UK | Entertainment",UK| Gold HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/83656.ts
+#EXTINF:-1 tvg-id="home.uk" tvg-name="UK| HGTV" tvg-logo="https://www.floorsandingexperts.co.uk/wp-content/uploads/hgtv-logo-with-r.png" group-title="UK | Entertainment",UK| HGTV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/89116.ts
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK| London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="UK | Entertainment",UK| London Live
+https://hostcloud.network/live/aD8C1ETPQU28/842373/101467.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK| More 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/more4hd.png" group-title="UK | Entertainment",UK| More 4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/291.ts
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK| 4 Seven HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="UK | Entertainment",UK| 4 Seven HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/447.ts
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK| 4Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="UK | Entertainment",UK| 4Music
+https://hostcloud.network/live/aD8C1ETPQU28/842373/100618.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK| 5 Star" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5star.png" group-title="UK | Entertainment",UK| 5 Star
+https://hostcloud.network/live/aD8C1ETPQU28/842373/445.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK| 5 USA" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5usa.png" group-title="UK | Entertainment",UK| 5 USA
+https://hostcloud.network/live/aD8C1ETPQU28/842373/443.ts
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK| 5 Select" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/5select.png" group-title="UK | Entertainment",UK| 5 Select
+https://hostcloud.network/live/aD8C1ETPQU28/842373/100619.ts
+#EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="UK| Paramount HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/paramountchannelhd.png" group-title="UK | Entertainment",UK| Paramount HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71699.ts
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="UK| PBS America" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pbsamerica.png" group-title="UK | Entertainment",UK| PBS America
+https://hostcloud.network/live/aD8C1ETPQU28/842373/274.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK| Pick" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pick.png" group-title="UK | Entertainment",UK| Pick
+https://hostcloud.network/live/aD8C1ETPQU28/842373/45814.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK| Quest HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/questhd.png" group-title="UK | Entertainment",UK| Quest HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/269.ts
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="UK| Quest Red" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/questred.png" group-title="UK | Entertainment",UK| Quest Red
+https://hostcloud.network/live/aD8C1ETPQU28/842373/44476.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK| Really" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="UK | Entertainment",UK| Really
+https://hostcloud.network/live/aD8C1ETPQU28/842373/244.ts
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK| Sky Arts HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyartshd.png" group-title="UK | Entertainment",UK| Sky Arts HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/237.ts
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK| Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="UK | Entertainment",UK| Sky Atlantic HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/489.ts
+#EXTINF:-1 tvg-id="reallives.uk" tvg-name="UK| Sky Crime" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/reallives.png" group-title="UK | Entertainment",UK| Sky Crime
+https://hostcloud.network/live/aD8C1ETPQU28/842373/494.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK| Sky Comedy" tvg-logo="https://i0.wp.com/www.geektown.co.uk/wp-content/uploads/2020/01/skycomedy.jpg?fit=850%2C445&ssl=1" group-title="UK | Entertainment",UK| Sky Comedy
+https://hostcloud.network/live/aD8C1ETPQU28/842373/139.ts
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK| Sky Witness HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skywitnesshd.png" group-title="UK | Entertainment",UK| Sky Witness HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/204.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK| Sky 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/sky1hd.png" group-title="UK | Entertainment",UK| Sky 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/241.ts
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK| Sky Replay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Skyreplay2020.png" group-title="UK | Entertainment",UK| Sky Replay
+https://hostcloud.network/live/aD8C1ETPQU28/842373/172.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="UK| S4C HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/s4chd.png" group-title="UK | Entertainment",UK| S4C HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/229.ts
+#EXTINF:-1 tvg-id="SonyChannel.uk" tvg-name="UK| Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="UK | Entertainment",UK| Sony Channel
+https://hostcloud.network/live/aD8C1ETPQU28/842373/125.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK| STV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/stvhd.png" group-title="UK | Entertainment",UK| STV HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/64711.ts
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="UK| Syfy HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/syfyhd.png" group-title="UK | Entertainment",UK| Syfy HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/152.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK| TLC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="UK | Entertainment",UK| TLC HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/149.ts
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK| W HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/whd.png" group-title="UK | Entertainment",UK| W HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK| Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="UK | Entertainment",UK| Yesterday
+https://hostcloud.network/live/aD8C1ETPQU28/842373/117.ts
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK| Baby TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/babytv.png" group-title="UK | Kids",UK| Baby TV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/416.ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="UK| Boomerang" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boomeranghd.png" group-title="UK | Kids",UK| Boomerang
+https://hostcloud.network/live/aD8C1ETPQU28/842373/347.ts
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="UK| Cartoonito (NOT 24/7)" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cartoonito.png" group-title="UK | Kids",UK| Cartoonito (NOT 24/7)
+https://hostcloud.network/live/aD8C1ETPQU28/842373/400.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK| Cartoon Network HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cartoonnetworkhd.png" group-title="UK | Kids",UK| Cartoon Network HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/314.ts
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK| CBBC FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbbchd.png" group-title="UK | Kids",UK| CBBC FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/408.ts
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK| CBeebies" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbeebieshd.png" group-title="UK | Kids",UK| CBeebies
+https://hostcloud.network/live/aD8C1ETPQU28/842373/545.ts
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="UK| Citv" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/citv.png" group-title="UK | Kids",UK| Citv
+https://hostcloud.network/live/aD8C1ETPQU28/842373/396.ts
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK| Nick HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickelodeonhd.png" group-title="UK | Kids",UK| Nick HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102838.ts
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="UK| Nick Jr Too" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickjrtoo.png" group-title="UK | Kids",UK| Nick Jr Too
+https://hostcloud.network/live/aD8C1ETPQU28/842373/286.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| Nick Junior" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickjunior.png" group-title="UK | Kids",UK| Nick Junior
+https://hostcloud.network/live/aD8C1ETPQU28/842373/276.ts
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK| Nicktoons" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nicktoons.png" group-title="UK | Kids",UK| Nicktoons
+https://hostcloud.network/live/aD8C1ETPQU28/842373/279.ts
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK| POP" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pop.png" group-title="UK | Kids",UK| POP
+https://hostcloud.network/live/aD8C1ETPQU28/842373/275.ts
+#EXTINF:-1 tvg-id="POPMax.uk" tvg-name="UK| POP MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" group-title="UK | Kids",UK| POP MAX
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103820.ts
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK| Pop (Tiny Pop)" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tinypop.png" group-title="UK | Kids",UK| Pop (Tiny Pop)
+https://hostcloud.network/live/aD8C1ETPQU28/842373/150.ts
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="UK| Box Hits" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxhits.png" group-title="UK | Music",UK| Box Hits
+https://hostcloud.network/live/aD8C1ETPQU28/842373/412.ts
+#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="UK| Chart Show TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/chartshowtv.png" group-title="UK | Music",UK| Chart Show TV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/393.ts
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="UK| Clubland TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/clublandtv.png" group-title="UK | Music",UK| Clubland TV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/65813.ts
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="UK| Kerrang!" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/kerrang.png" group-title="UK | Music",UK| Kerrang!
+https://hostcloud.network/live/aD8C1ETPQU28/842373/508.ts
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="UK| Kiss TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/kiss.png" group-title="UK | Music",UK| Kiss TV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/311.ts
+#EXTINF:-1 tvg-id="Magic.uk" tvg-name="UK| Magic" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/magic.png" group-title="UK | Music",UK| Magic
+https://hostcloud.network/live/aD8C1ETPQU28/842373/305.ts
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK| MTV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvhd.png" group-title="UK | Music",UK| MTV HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102836.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK| MTV BASE" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvbase.png" group-title="UK | Music",UK| MTV BASE
+https://hostcloud.network/live/aD8C1ETPQU28/842373/503.ts
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK| MTV CLASSIC" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvclassic.png" group-title="UK | Music",UK| MTV CLASSIC
+https://hostcloud.network/live/aD8C1ETPQU28/842373/295.ts
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK| MTV HITS" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvhits.png" group-title="UK | Music",UK| MTV HITS
+https://hostcloud.network/live/aD8C1ETPQU28/842373/501.ts
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK| MTV MUSIC" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvmusic.png" group-title="UK | Music",UK| MTV MUSIC
+https://hostcloud.network/live/aD8C1ETPQU28/842373/303.ts
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="UK| Now 70s" tvg-logo="https://i.ytimg.com/vi/5vO9yp_7be0/maxresdefault.jpg" group-title="UK | Music",UK| Now 70s
+https://hostcloud.network/live/aD8C1ETPQU28/842373/89114.ts
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK| NOW 80s" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/now80s.png" group-title="UK | Music",UK| NOW 80s
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102837.ts
+#EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK| NOW 90s" tvg-logo="https://i.ytimg.com/vi/-vL_QPQK_lM/maxresdefault.jpg" group-title="UK | Music",UK| NOW 90s
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71939.ts
+#EXTINF:-1 tvg-id="spotlighttv.uk" tvg-name="UK| Spotlight" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Spotlightpremiumchannellogo.jpg/200px-Spotlightpremiumchannellogo.jpg" group-title="UK | Music",UK| Spotlight
+https://hostcloud.network/live/aD8C1ETPQU28/842373/309.ts
+#EXTINF:-1 tvg-id="Vault.uk" tvg-name="UK| Trace Vault" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TRACE_Vault_Logo.png/220px-TRACE_Vault_Logo.png" group-title="UK | Music",UK| Trace Vault
+https://hostcloud.network/live/aD8C1ETPQU28/842373/148.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK| Sky Cinema Action HD" tvg-logo="https://www.dropbox.com/s/l5zz5st2r8dfxao/skycinemaaction.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Action HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/249.ts
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK| Sky Cinema Action FHD" tvg-logo="https://www.dropbox.com/s/ivuk951c9q82qmh/skycinemaactionhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Action FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/236.ts
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK| Sky Cinema Animation HD" tvg-logo="https://www.dropbox.com/s/xqjlhted5yb9fwz/animationhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Animation HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104026.ts
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK| Sky Cinema Animation FHD" tvg-logo="https://www.dropbox.com/s/xqjlhted5yb9fwz/animationhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Animation FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/55599.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK| Sky Cinema Comedy HD" tvg-logo="https://www.dropbox.com/s/3a9f7kctlelg3l0/skycomedy.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Comedy HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/247.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK| Sky Cinema Comedy FHD" tvg-logo="https://www.dropbox.com/s/ptt3b1gaag8izib/skycomedyhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Comedy FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/246.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK| Sky Cinema Drama HD" tvg-logo="https://www.dropbox.com/s/bx5zmnze1mghh3s/skydrama.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Drama HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/255.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK| Sky Cinema Drama FHD" tvg-logo="https://www.dropbox.com/s/bt5cfe3uaiqaceg/skydramahd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Drama FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/260.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK| Sky Cinema Family HD" tvg-logo="https://www.dropbox.com/s/tqvfsmj5hzji5nq/skyfamily.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Family HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/242.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="UK| Sky Cinema Family FHD" tvg-logo="https://www.dropbox.com/s/ps5gouatpcwu4ym/skyfamilyhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Family FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/262.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK| Sky Cinema Greats HD" tvg-logo="https://www.dropbox.com/s/eemmpcma55wwgyh/skygreats.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Greats HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/250.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK| Sky Cinema Greats FHD" tvg-logo="https://www.dropbox.com/s/dljdyw9ncmbi98h/skygreatshd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Greats FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/243.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK| Sky Cinema Hits HD" tvg-logo="https://www.dropbox.com/s/mhw6bl0uzecnubh/skyhits.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Hits HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/209.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK| Sky Cinema Hits FHD" tvg-logo="https://www.dropbox.com/s/yh8zlu50lkeqcy1/skyhitshd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Hits FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/194.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK| Sky Cinema Premier HD" tvg-logo="https://www.dropbox.com/s/ml6nen867m97tdu/skypremiere.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Premier HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/212.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK| Sky Cinema Premier FHD" tvg-logo="https://www.dropbox.com/s/0c5s0ka6bia5thu/skypremierehd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Premier FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/191.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK| Sky Cinema SciFi & Horror HD" tvg-logo="https://www.dropbox.com/s/hkyiaalngypn35r/skyscfihorror.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema SciFi & Horror HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/188.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK| Sky Cinema SciFi & Horror FHD" tvg-logo="https://www.dropbox.com/s/tbw30sfprhf0bzj/skyscifiandhorhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema SciFi & Horror FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/195.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK| Sky Cinema Select HD" tvg-logo="https://www.dropbox.com/s/g16u1aj8rk8dl8q/Sky_Cinema_Select_DE_Logo_2016.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Select HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/205.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK| Sky Cinema Select FHD" tvg-logo="https://www.dropbox.com/s/n1hmb2ucxdu7q73/sky-cinema-select.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Select FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/199.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK| Sky Cinema Thriller HD" tvg-logo="https://www.dropbox.com/s/ongfrhmx6nucq1m/skythriller.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Thriller HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/198.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK| Sky Cinema Thriller FHD" tvg-logo="https://www.dropbox.com/s/99tkusi5w26xl5h/skythrillerhd.png?dl=1" group-title="UK | Cinema",UK| Sky Cinema Thriller FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/202.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK| TCM HD" tvg-logo="https://www.dropbox.com/s/mgkcx02fdf01akc/tcmhd.png?dl=1" group-title="UK | Cinema",UK| TCM HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/153.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK| Film 4 HD" tvg-logo="https://www.dropbox.com/s/o2wf11o4v6j8s9x/film4.png?dl=1" group-title="UK | Cinema",UK| Film 4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/358.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK| FILM 4 FHD" tvg-logo="https://www.dropbox.com/s/tvh0lqp2d3sgfow/film4hd.png?dl=1" group-title="UK | Cinema",UK| FILM 4 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/106.ts
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="UK| Horror Channel" tvg-logo="https://www.dropbox.com/s/m4bdnmaooal7n3i/horrorchannel.png?dl=1" group-title="UK | Cinema",UK| Horror Channel
+https://hostcloud.network/live/aD8C1ETPQU28/842373/110.ts
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-name="UK| Sony Movies" tvg-logo="https://www.dropbox.com/s/zabpehx7493j1jz/Sony_Movies_Logo.svg.png?dl=1" group-title="UK | Cinema",UK| Sony Movies
+https://hostcloud.network/live/aD8C1ETPQU28/842373/169.ts
+#EXTINF:-1 tvg-id="sonymoviesaction.uk" tvg-name="UK| Sony Movies Action" tvg-logo="https://www.dropbox.com/s/ukis035qqhchdyo/sonymovies.png?dl=1" group-title="UK | Cinema",UK| Sony Movies Action
+https://hostcloud.network/live/aD8C1ETPQU28/842373/108.ts
+#EXTINF:-1 tvg-id="sonyclassic.uk" tvg-name="UK| Sony Movies Clasic" tvg-logo="https://www.dropbox.com/s/ictgdgj18b5abak/c27485dbb97fe50f09675b105b83e19a.jpg?dl=1" group-title="UK | Cinema",UK| Sony Movies Clasic
+https://hostcloud.network/live/aD8C1ETPQU28/842373/135.ts
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK| Talking Pictures" tvg-logo="https://www.dropbox.com/s/ysr0282x9gdbr4p/talkingpictures.png?dl=1" group-title="UK | Cinema",UK| Talking Pictures
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71397.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK| Sky Sports News" tvg-logo="https://www.dropbox.com/s/5k7w2988em8qin8/skysportsnews.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports News
+https://hostcloud.network/live/aD8C1ETPQU28/842373/162.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK| Sky Sports News HD" tvg-logo="https://www.dropbox.com/s/24a1izkpur13mc9/skysportsnewshd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports News HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/8421.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK| Sky Sports News FHD" tvg-logo="https://www.dropbox.com/s/24a1izkpur13mc9/skysportsnewshd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports News FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71412.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action" tvg-logo="https://www.dropbox.com/s/8srbyedz24ysoul/skysportsaction.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Action
+https://hostcloud.network/live/aD8C1ETPQU28/842373/219.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action HD" tvg-logo="https://www.dropbox.com/s/qxeeik95dr8yg9l/skysportsactionhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Action HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/211.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK| Sky Sports Action FHD" tvg-logo="https://www.dropbox.com/s/qxeeik95dr8yg9l/skysportsactionhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Action FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43352.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena" tvg-logo="https://www.dropbox.com/s/sg56os0t11yihzb/skysportsarena.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Arena
+https://hostcloud.network/live/aD8C1ETPQU28/842373/216.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena HD" tvg-logo="https://www.dropbox.com/s/lf1lajhi5ffnjz5/skysportsarenahd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Arena HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/220.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena FHD" tvg-logo="https://www.dropbox.com/s/lf1lajhi5ffnjz5/skysportsarenahd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Arena FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43351.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| Sky Sports Cricket" tvg-logo="https://www.dropbox.com/s/64zh121lq0vkidv/skysportscricket.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Cricket
+https://hostcloud.network/live/aD8C1ETPQU28/842373/217.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| Sky Sports Cricket HD" tvg-logo="https://www.dropbox.com/s/o23qbydgzxhiuiq/skysportscrickethd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Cricket HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/213.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| Sky Sports Cricket FHD" tvg-logo="https://www.dropbox.com/s/o23qbydgzxhiuiq/skysportscrickethd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Cricket FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43350.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| Sky Sports F1" tvg-logo="https://www.dropbox.com/s/gh8664o1sezeom3/skysportsf1.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports F1
+https://hostcloud.network/live/aD8C1ETPQU28/842373/80135.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| Sky Sports F1 HD" tvg-logo="https://www.dropbox.com/s/uewttlq11ww48fk/skysportsf1hd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports F1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/215.ts
+#EXTINF:-1 tvg-id="UK: SkySp F1" tvg-name="UK| Sky Sports F1 FHD" tvg-logo="https://www.dropbox.com/s/uewttlq11ww48fk/skysportsf1hd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports F1 FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/218.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| Sky Sports Football" tvg-logo="https://www.dropbox.com/s/6o05a4enqiyf33u/skysportsfootball.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Football
+https://hostcloud.network/live/aD8C1ETPQU28/842373/184.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK| Sky Sports Football HD" tvg-logo="https://www.dropbox.com/s/baqaxmna432btdz/skysportsfootballhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Football HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/159.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK| Sky Sports Football FHD" tvg-logo="https://www.dropbox.com/s/baqaxmna432btdz/skysportsfootballhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Football FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43349.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| Sky Sports Golf" tvg-logo="https://www.dropbox.com/s/smdwjdmnkemym3l/skysportsgolf.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Golf
+https://hostcloud.network/live/aD8C1ETPQU28/842373/161.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| Sky Sports Golf HD" tvg-logo="https://www.dropbox.com/s/5x8xjfd3ep1rm8u/skysportsgolfhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Golf HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/185.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| Sky Sports Golf FHD" tvg-logo="https://www.dropbox.com/s/5x8xjfd3ep1rm8u/skysportsgolfhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Golf FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43348.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| Sky Sports Main Event" tvg-logo="https://www.dropbox.com/s/908jbo5si0eroiu/skysportsmainevent.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Main Event
+https://hostcloud.network/live/aD8C1ETPQU28/842373/164.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| Sky Sports Main Event HD" tvg-logo="https://www.dropbox.com/s/w712magm07litah/skysportsmaineventhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Main Event HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/173.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| Sky Sports Main Event FHD" tvg-logo="https://www.dropbox.com/s/w712magm07litah/skysportsmaineventhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Main Event FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43353.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| Sky Sports Mix" tvg-logo="https://www.dropbox.com/s/ti7vxn7exabxc5t/skysportsmix.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Mix
+https://hostcloud.network/live/aD8C1ETPQU28/842373/167.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| Sky Sports Mix HD" tvg-logo="https://www.dropbox.com/s/uoupqjxmvi838si/skysportsmixhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Mix HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/165.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| Sky Sports Mix FHD" tvg-logo="https://www.dropbox.com/s/uoupqjxmvi838si/skysportsmixhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Mix FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/43347.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| Sky Sports Premier League" tvg-logo="https://www.dropbox.com/s/sg5lds863dwg7p5/skysportspl.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Premier League
+https://hostcloud.network/live/aD8C1ETPQU28/842373/166.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| Sky Sports Premier League HD" tvg-logo="https://www.dropbox.com/s/38ghbh3zgfrq994/skysportsplhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Premier League HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/168.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| Sky Sports Premier League FHD" tvg-logo="https://www.dropbox.com/s/38ghbh3zgfrq994/skysportsplhd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Premier League FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/85430.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| Sky Sports Racing" tvg-logo="https://www.dropbox.com/s/i6zkqacr9lce5gt/skyspracing.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Racing
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71336.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK| Sky Sports Racing HD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Racing HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103838.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK| Sky Sports Racing FHD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="UK | Sky Sports",UK| Sky Sports Racing FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/409.ts
+#EXTINF:-1 tvg-id="1.S" tvg-name="Spark Sports 1" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 1
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104057.ts
+#EXTINF:-1 tvg-id="2.S" tvg-name="Spark Sports 2" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 2
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104160.ts
+#EXTINF:-1 tvg-id="3.S" tvg-name="Spark Sports 3" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 3
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104121.ts
+#EXTINF:-1 tvg-id="4.S" tvg-name="Spark Sports 4" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 4
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104082.ts
+#EXTINF:-1 tvg-id="5.S" tvg-name="Spark Sports 5" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 5
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104167.ts
+#EXTINF:-1 tvg-id="NFL.REPLAY.10A" tvg-name="Spark Sports 6" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 6
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spark Sports 7" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 7
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104066.ts
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SP| Supersport Blitz" tvg-logo="https://www.dropbox.com/s/c05xy5t3xxdglu2/supersport-blitz-live.png?dl=1" group-title="Supersports SA",SP| Supersport Blitz
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102806.ts
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SP| Supersport MaXimo 1" tvg-logo="https://www.dropbox.com/s/ufmqsw9zpdmfog3/maximo-1.png?dl=1" group-title="Supersports SA",SP| Supersport MaXimo 1
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102807.ts
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-name="SP| Supersport Play" tvg-logo="https://www.dropbox.com/s/mvsbrlk4p88912r/dstvsupersport-play.png?dl=1" group-title="Supersports SA",SP| Supersport Play
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103840.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SP| SuperSport La Liga" tvg-logo="https://www.dropbox.com/s/6brqfea336dzoxq/LIG.png?dl=1" group-title="Supersports SA",SP| SuperSport La Liga
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102245.ts
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SP| SuperSport PSL" tvg-logo="https://www.dropbox.com/s/p74atov5gpd287w/psl.png?dl=1" group-title="Supersports SA",SP| SuperSport PSL
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102244.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SP| SuperSport Premier League" tvg-logo="https://www.dropbox.com/s/vem1miuca3b0a66/epl.png?dl=1" group-title="Supersports SA",SP| SuperSport Premier League
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102243.ts
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SP| SuperSport Grandstand" tvg-logo="https://www.dropbox.com/s/cjim0v3xul6i0yp/supersport-grandstand.png?dl=1" group-title="Supersports SA",SP| SuperSport Grandstand
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102242.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SP| SuperSport Variety 1" tvg-logo="https://www.dropbox.com/s/yep23x5sdcwf6dr/supersport-variety-1.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 1
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102240.ts
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SP| SuperSport Variety 2" tvg-logo="https://www.dropbox.com/s/sei3s6przw6j6wo/supersport-variety-2.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 2
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102241.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SP| SuperSport Variety 3" tvg-logo="https://www.dropbox.com/s/m8f8osjeu7kyw19/supersport-variety-3.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 3
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102236.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SP| SuperSport Variety 4" tvg-logo="https://www.dropbox.com/s/6hrrenuarallnf1/supersport-variety-4.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 4
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102237.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SP| SuperSport Action" tvg-logo="https://www.dropbox.com/s/l8q732u2zjcx8mb/supersport-action.png?dl=1" group-title="Supersports SA",SP| SuperSport Action
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102239.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SP| SuperSport Football" tvg-logo="https://www.dropbox.com/s/qswm3jj1qdmnajm/supersport-football-live.png?dl=1" group-title="Supersports SA",SP| SuperSport Football
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102238.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP| SuperSport Football Plus" tvg-logo="https://www.dropbox.com/s/qswm3jj1qdmnajm/supersport-football-live.png?dl=1" group-title="Supersports SA",SP| SuperSport Football Plus
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104192.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SP| SuperSport Rugby" tvg-logo="https://www.dropbox.com/s/ntyb3zgjt7gktnp/supersport-rugby.png?dl=1" group-title="Supersports SA",SP| SuperSport Rugby
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102235.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SP| SuperSport Cricket" tvg-logo="https://www.dropbox.com/s/xxsosafrbmoygkc/supersport-cricket.png?dl=1" group-title="Supersports SA",SP| SuperSport Cricket
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102234.ts
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SP| SuperSport Golf" tvg-logo="https://www.dropbox.com/s/ndmh8ikrga39b62/supersport-golf.png?dl=1" group-title="Supersports SA",SP| SuperSport Golf
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103555.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SP| SuperSport Tennis" tvg-logo="https://www.dropbox.com/s/bnajs71ma6fmhg4/supersport-tennis.png?dl=1" group-title="Supersports SA",SP| SuperSport Tennis
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104135.ts
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SP| SuperSport Motorsport" tvg-logo="https://www.dropbox.com/s/253ash5c7g4utms/supersport-motorsport.png?dl=1" group-title="Supersports SA",SP| SuperSport Motorsport
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104134.ts
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="SP| SuperSport WWE" tvg-logo="https://www.dropbox.com/s/uc6wsisng5f35rc/wwe-channel.png?dl=1" group-title="Supersports SA",SP| SuperSport WWE
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104193.ts
+#EXTINF:-1 tvg-id="espn.za" tvg-name="SP| ESPN" tvg-logo="https://www.dropbox.com/s/09zbq5nf3vlferf/ESPN-Logo.png?dl=1" group-title="Supersports SA",SP| ESPN
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104101.ts
+#EXTINF:-1 tvg-id="espn2.za" tvg-name="SP| ESPN 2" tvg-logo="https://www.dropbox.com/s/k9z6swxw43ayyco/1000px-ESPN2_logo.svg.png?dl=1" group-title="Supersports SA",SP| ESPN 2
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104203.ts
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK| Box Nation" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnation.png" group-title="UK | Sports",UK| Box Nation
+https://hostcloud.network/live/aD8C1ETPQU28/842373/414.ts
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK| Box Nation FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnationhd.png" group-title="UK | Sports",UK| Box Nation FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/1125.ts
+#EXTINF:-1 tvg-id="eirsport1.ie" tvg-name="UK| EIR Sport 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eirsport1hd.png" group-title="UK | Sports",UK| EIR Sport 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/115.ts
+#EXTINF:-1 tvg-id="eirsport2.ie" tvg-name="UK| EIR Sports 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eirsport2hd.png" group-title="UK | Sports",UK| EIR Sports 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/357.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| Eurosport 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eurosport1hd.png" group-title="UK | Sports",UK| Eurosport 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/186.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| Eurosport 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eurosport2hd.png" group-title="UK | Sports",UK| Eurosport 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/352.ts
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="UK| Free Sports HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/freesportshd.png" group-title="UK | Sports",UK| Free Sports HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/42856.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| MotoGP: (Event only)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/Moto_Gp_logo_logotype_MotoGP.png" group-title="UK | Sports",UK| MotoGP: (Event only)
+https://hostcloud.network/live/aD8C1ETPQU28/842373/100716.ts
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK| Premier Sports 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/premiersportshd.png" group-title="UK | Sports",UK| Premier Sports 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/266.ts
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK| Premier Sports 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/premiersports2hd.png" group-title="UK | Sports",UK| Premier Sports 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71129.ts
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK| Premier Sports La Liga TV HD" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2014/01/la-liga-logo.jpg" group-title="UK | Sports",UK| Premier Sports La Liga TV HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71325.ts
+#EXTINF:-1 tvg-id="PDC1.UK" tvg-name="UK| PDC Darts 1 HD" tvg-logo="https://mpng.pngfly.com/20180613/tbu/kisspng-world-professional-darts-championship-2018-pdc-wor-professional-darts-corporation-5b20f5c86f8fa4.815018591528886728457.jpg" group-title="UK | Sports",UK| PDC Darts 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/69485.ts
+#EXTINF:-1 tvg-id="PDC2.UK" tvg-name="UK| PDC Darts 2 HD" tvg-logo="https://mpng.pngfly.com/20180613/tbu/kisspng-world-professional-darts-championship-2018-pdc-wor-professional-darts-corporation-5b20f5c86f8fa4.815018591528886728457.jpg" group-title="UK | Sports",UK| PDC Darts 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/89136.ts
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| Racing UK" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/racinguk.png" group-title="UK | Sports",UK| Racing UK
+https://hostcloud.network/live/aD8C1ETPQU28/842373/226.ts
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| Racing UK FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/racinguk.png" group-title="UK | Sports",UK| Racing UK FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/227.ts
+#EXTINF:-1 tvg-id="optussport1.au" tvg-name="Optus Sports 1 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 1 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93033.ts
+#EXTINF:-1 tvg-id="os2" tvg-name="Optus Sports 2 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 2 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93032.ts
+#EXTINF:-1 tvg-id="os1" tvg-name="Optus Sports 3 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 3 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93031.ts
+#EXTINF:-1 tvg-id="OptusSport4.au" tvg-name="Optus Sports 4 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 4 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93030.ts
+#EXTINF:-1 tvg-id="MATCH5.AFL" tvg-name="Optus Sports 5 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 5 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93029.ts
+#EXTINF:-1 tvg-id="MATCH6.AFL" tvg-name="Optus Sports 6 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 6 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93028.ts
+#EXTINF:-1 tvg-id="MATCH7.AFL" tvg-name="Optus Sports 7 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 7 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/93027.ts
+#EXTINF:-1 tvg-id="FMC-37" tvg-name="Optus Sports 8 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 8 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103430.ts
+#EXTINF:-1 tvg-id="FMC-36" tvg-name="Optus Sports 9 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 9 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103429.ts
+#EXTINF:-1 tvg-id="FMC-35" tvg-name="Optus Sports 10 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 10 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103428.ts
+#EXTINF:-1 tvg-id="FMC-34" tvg-name="Optus Sports 11 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 11 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103427.ts
+#EXTINF:-1 tvg-id="FMC-33" tvg-name="Optus Sports 12 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 12 HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103426.ts
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK| Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="UK | Documentary",UK| Animal Planet
+https://hostcloud.network/live/aD8C1ETPQU28/842373/434.ts
+#EXTINF:-1 tvg-id="court.us" tvg-name="UK| Court TV" tvg-logo="https://www.dropbox.com/s/bxvp6t2sf4qbe68/300px-Court_TV_2019.png?dl=1" group-title="UK | Documentary",UK| Court TV
+https://hostcloud.network/live/aD8C1ETPQU28/842373/104143.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK| Crime & Investigation HD" tvg-logo="https://www.dropbox.com/s/a4ev3u3ww8bmlmh/crimeandinvest.png?dl=1" group-title="UK | Documentary",UK| Crime & Investigation HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/387.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK| Discovery Channel HD" tvg-logo="https://www.dropbox.com/s/xnud7b66sxd1p90/discoverychannelhd.png?dl=1" group-title="UK | Documentary",UK| Discovery Channel HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/383.ts
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK| Discovery DMAX" tvg-logo="https://www.dropbox.com/s/j5ssmgzegvve42u/dmax.png?dl=1" group-title="UK | Documentary",UK| Discovery DMAX
+https://hostcloud.network/live/aD8C1ETPQU28/842373/386.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK| Discovery History" tvg-logo="https://www.dropbox.com/s/n5yjsh2e4h1hmvg/discoveryhistory.png?dl=1" group-title="UK | Documentary",UK| Discovery History
+https://hostcloud.network/live/aD8C1ETPQU28/842373/376.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK| Discovery Science" tvg-logo="https://www.dropbox.com/s/ajsvmvct3gb8e6i/discoveryscience.png?dl=1" group-title="UK | Documentary",UK| Discovery Science
+https://hostcloud.network/live/aD8C1ETPQU28/842373/372.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK| Discovery Turbo" tvg-logo="https://www.dropbox.com/s/bmsjs31n8g8a1rv/discoveryturbo.png?dl=1" group-title="UK | Documentary",UK| Discovery Turbo
+https://hostcloud.network/live/aD8C1ETPQU28/842373/365.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="UK| Investigation Discovery ID" tvg-logo="https://www.dropbox.com/s/vnwa00wki00hqtt/idinvestigationdiscovery.png?dl=1" group-title="UK | Documentary",UK| Investigation Discovery ID
+https://hostcloud.network/live/aD8C1ETPQU28/842373/329.ts
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="UK| Love Nature" tvg-logo="https://www.dropbox.com/s/aaxnhdnn3hwelru/lovenature.png?dl=1" group-title="UK | Documentary",UK| Love Nature
+https://hostcloud.network/live/aD8C1ETPQU28/842373/71938.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| National Geographic HD" tvg-logo="https://www.dropbox.com/s/wpyx0cfmju86foo/natgeo.png?dl=1" group-title="UK | Documentary",UK| National Geographic HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/271.ts
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK| National Geographic FHD" tvg-logo="https://www.dropbox.com/s/2qcjbdfq5wqjylu/natgeohd.png?dl=1" group-title="UK | Documentary",UK| National Geographic FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/283.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| Nat Geo Wild HD" tvg-logo="https://www.dropbox.com/s/zqg6i2o0q9711kv/natgeowild.png?dl=1" group-title="UK | Documentary",UK| Nat Geo Wild HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/112.ts
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK| Nat Geo Wild FHD" tvg-logo="https://www.dropbox.com/s/4s3khzoh9bbq6nm/natgeowildhd.png?dl=1" group-title="UK | Documentary",UK| Nat Geo Wild FHD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/282.ts
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK| Sky History HD" tvg-logo="https://www.dropbox.com/s/v6064okjprp4esn/177-1779766_history-hd.png?dl=1" group-title="UK | Documentary",UK| Sky History HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/332.ts
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="UK| Sky HISTORY 2 (H2)" tvg-logo="https://www.dropbox.com/s/hxdhp19k57aq16a/H2.png?dl=1" group-title="UK | Documentary",UK| Sky HISTORY 2 (H2)
+https://hostcloud.network/live/aD8C1ETPQU28/842373/325.ts
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK| Sky Documentaries" tvg-logo="https://www.dropbox.com/s/ltvnosqn9r46ugy/Sky_Documentaries_Logo_2020.png?dl=1" group-title="UK | Documentary",UK| Sky Documentaries
+https://hostcloud.network/live/aD8C1ETPQU28/842373/101929.ts
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK| Sky Nature" tvg-logo="https://www.dropbox.com/s/9pexxynspd0kzl6/Sky_Nature_Logo_2020.png?dl=1" group-title="UK | Documentary",UK| Sky Nature
+https://hostcloud.network/live/aD8C1ETPQU28/842373/103813.ts
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK| SMITHSONIAN CHANNEL" tvg-logo="https://www.dropbox.com/s/vz4mxqyqa6iklxv/smithsonian-channel.jpg?dl=1" group-title="UK | Documentary",UK| SMITHSONIAN CHANNEL
+https://hostcloud.network/live/aD8C1ETPQU28/842373/183.ts
+

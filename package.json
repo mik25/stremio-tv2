@@ -1,0 +1,14 @@
+{
+	"name": "iptv",
+	"version": "0.0.1",
+	"description": "iptv stremio ",
+	"engines": {
+		"node": "12.x"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"stremio-addon-sdk": "^1.1.0"
+	}
+}
